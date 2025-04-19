@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=header">
 <h1 align="center">🌟 Talented Web & Unity Developer | Passionate Creator</h1>
 
 <p align="center">
@@ -88,3 +89,5 @@
 ---
 
 <p align="center">💖 Made with passion & a touch of pink 💖</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=footer"> </div></b>
